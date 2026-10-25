@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/images/logo.png" width="120" alt="Foxmomo Music logo"/>
+<img src="screenshot/icon.png" width="120" alt="Foxmomo Music logo"/>
 
 # Foxmomo Music
 
@@ -51,7 +51,7 @@ Copyright © 2026 an-ttt. All rights reserved.
 
 <div align="center">
 
-<img src="assets/images/logo.png" width="80" alt="Foxmomo Music logo"/>
+<img src="screenshot/icon.png" width="80" alt="Foxmomo Music logo"/>
 
 # Foxmomo Music
 
